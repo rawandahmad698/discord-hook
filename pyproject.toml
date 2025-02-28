@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "discord-hook"
+name = "py-discord-hook"
 version = "1.3.1"
 description = "Easily send Discord webhooks with Python"
 authors = ["lovvskillz <14542790+lovvskillz@users.noreply.github.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "discord_webhook"}]
-repository = "https://github.com/lovvskillz/python-discord-webhook"
+repository = "https://github.com/rawandahmad698/discord-hook"
 keywords = ["discord", "webhook"]
 
 
