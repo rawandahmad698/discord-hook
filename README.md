@@ -10,7 +10,7 @@ Easily send Discord webhooks with Python (also has [async support](#async-suppor
 
 Install via pip:
 ```
-pip install discord-hook
+pip install py-discord-hook
 ```
 
 ## Examples
@@ -362,7 +362,7 @@ except Timeout as err:
 ### Async support
 In order to use the async version, you need to install the package using:
 ```
-pip install discord-webhook[async]
+pip install py-discord-hook[async]
 ```
 Example usage:
 ```python
